@@ -48,3 +48,6 @@ To explore sales data, identify trends, compare product and regional performance
 Aditi Londhe
 
 GitHub: https://github.com/aditilondhe17
+## Dashboard Preview
+
+![Sales Data Analytics Dashboard](sales-dashboard.png.png)
